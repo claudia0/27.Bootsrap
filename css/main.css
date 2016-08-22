@@ -1,0 +1,37 @@
+/* Inserta tu código aqui */
+
+}
+.btn-ttc:active {
+	color: whhite;
+	background-color: black;
+
+}
+
+h4{ 
+	background-color: #C1B4B4;
+	width: 100%;
+	margin-right: 0px !important;
+ }
+h3{ 
+	background-color:#747077;
+	color:#fefefe !important;
+	display: inline;
+}
+
+	 
+
+hr{border-color: solid 1px #7F7979;}
+
+.fondo{
+	background-color: #D7D2D2 !important; 
+	width: 100%;
+	padding: 2%;
+}
+
+.fondo-2 {
+background-color: #F5F5F5;
+}
+a li{ 
+	text-decoration: none;
+	color: black;
+}
